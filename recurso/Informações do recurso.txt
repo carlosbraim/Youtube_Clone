@@ -1,0 +1,6 @@
+Essa dependencia é obrigatorio baixar: 
+
+Extrair o pacote -> entrar na pasta libs -> pegar o arquivo"YouTubeAndroidPlayerApi" e copiar ->
+volta no projeto android-> altera para projeto -> entrar em app-> libis e colar -> depois eé so voltar para android.
+
+https://developers.google.com/youtube/android/player/downloads
